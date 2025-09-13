@@ -1,63 +1,31 @@
-<!-- 顶部波浪 欢迎语 -->
+<!-- https://github.com/kyechan99/capsule-render -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E3C72,100:2A5298&height=180&section=header&text=Welcome%20to%20my%20GitHub%20profile!&fontSize=40&fontColor=00FF00&fontAlignY=35&animation=fadeIn&desc=思维没有边界·一切皆有可能🚀&descAlignY=60&descSize=20&descColor=FFFFFF" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=header&text=Welcome&fontSize=90&fontAlign=50&fontAlignY=30&desc=思维没有边界+一切皆有可能&descAlign=50&descSize=30&descAlignY=60&animation=twinkling" />
+</p>
+<!-- https://github.com/DenverCoder1/readme-typing-svg -->
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Outfit&size=30&pause=1000&color=11F721&random=false&width=435&lines=Welcome+to+my+GitHub+profile!;I+am+super+obsessed+with+programming!" />
+</p>
+<p align="center">
+<!-- https://github.com/anuraghazra/github-readme-stats -->
+<img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=alantang1977&theme=cobalt&show_icons=true&hide_border=true" /> 
+<!-- https://github.com/DenverCoder1/github-readme-streak-stats -->
+<img align="center" width="400" src="https://streak-stats.demolab.com?user=alantang1977&theme=material-palenight&hide_border=true&date_format=%5BY.%5Dn.j" />
+<br/>
+<!-- https://github.com/tandpfun/skill-icons -->
+<img align="center" src="https://skillicons.dev/icons?i=py,c,cpp,cs,java,html,css,js,ts,md,matlab&theme=light" />
+</p>
+<!-- https://github.com/badges/shields -->
+<p align="center">
+<a href="https://github.com/alantang1977"><img src="https://img.shields.io/badge/GitHub-alantang-blue?logo=github" /></a>
+<a href="https://alantang1977.blog.csdn.net"><img src="https://img.shields.io/badge/CSDN-alantang-red?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAB+FBMVEUAAABqMy7wroeAUEvuso1vOTNwOzbxt5WKYFyniYm/qKLe3s1sNTBsNjGQVkhvODR6Rj7ip4XutZOCU07wtpXxupnst5eKXFmJXlrwu5qKbWryv6Hzx62gfXuwiYb44tNvODNWNSuKUUbwr4iKUkXwsImCVUZ3Qjt5UkN3QjvwsYtGLSfws454SERyPzp4RD/ws4/ws49xPzvvtI/xtJBPODJ7S0Z7SkXWnIFiTkbVnIGCU0/ps5TxvaDwvqGSaWWSaGiOaGSTb2uPamXzx7HxyrCjhHrwrYVqMi3wrITuq4RrMy63eF9jPS/Cg2fupoLqqIHopoDfn3rXlnXAfmSwcluNWkfioHzmkXrihXXccW2zdFypbFehZlKFWUVzSTlwSTh7QThuNS9VMyjto4HlpH7ionzjh3bXmXXOkG/Mi22tb1l/UUB9TT15TDxtRzZcNytZNypRMCVPLiTrnn/cnXnZm3fZmHbhgXTddG7IiGvMgGrPY2S2gGK+e2K1dl7CXV6uel28WlqocFika1WnalWdbFOaYk6dYE6SYUySVkaQVUaIVkSCV0OHVEOJTkF4UD2CRTxmQTJaLCZXKyVNKyJJJR9EIx0+IRrTknLffXLabWzZbGzFi2u5emGucFqicVeXaFCSXUp1STpdOy1hNyxdMilXMCfoEl0hAAAAR3RSTlMA/vqLn+7meVAWDgX59/X13LSGgoF7c2hdVlJQLSklEff18/Ly7+zs5ubi4djX1szHxMG5uLSjnZaJhn1pXldEPT05Ny4nGbaUVn8AAAIPSURBVDjLvdNFlxpBEMDxBgLsknX3jbu7e1I1wzC4OyzusO7u7nFPvmYGwr4HWZJc8vI71at/H/rQTf65g3/pReclTX/qj0rKL175fW4ViBCRd0HQWjC/uFGCWaU3i/f3hyLMIXq873alKJVma3oqL8rvTw7Ns+qeALOCuMIEetTsvPBpbpdUsBSk0SMjdGag2ApJzgEBC4qxJdtQJtJDNtuYAjSCvfpMfKeMUslkOp3MoQTwxNLTup4uuyVuSfcqPoTeUfbIicN2JqoDsEW1p9zh6CowIeDXEXIfaMNasHtr+fb1nWXG7fEmGXvT2e2ZlCq4ZqChmVwC46Ar+DYe2dndjAzHk6nEsGx7d+NTPNDvGvTBVXKGMo3ie3/K8n3jm0WT6PK7NTNbm1/Nya4QjvbBOXIZjOPoVK4vmq1mzdwSUKtzGq2VWYwpnTjug2vkAdADiFa12z45EZZ5AVRfwhOTnxPdVsQBit9MiJivkqJ0Vv0x5vig1FOU3jPtcEz7Z7mlil9LOC33TiOiUwEAL139rEvNDQontzpZ95z8VI2IC8BRar16rSI9LXCrarKnWIhogTwWRGHOo2jgoRnA4Ms0ymgA0CKvgeS4y5sC6DAZ5UB19PbJAaZ4ApKn/gjNnXj1xmR63ct1+lg9+UVbJXDknZ1y4FS2Ffgytcch62hN4f/T3lhzgFPV2E7+qx9xsqq+PsbsOwAAAABJRU5ErkJggg==" /></a>
+<a href="https://www.bilibili.com/video/BV13YbaekE6B/?spm_id_from=333.1387.0.0"><img src="https://img.shields.io/badge/哔哩哔哩-alantang-pink?logo=bilibili" /></a>
+<img src="https://img.shields.io/badge/QQ-3351417597-green?logo=tencentqq" />
+<!-- https://github.com/antonkomarev/github-profile-views-counter -->
+<img src="https://komarev.com/ghpvc/?username=alantang1977&abbreviated=true&color=yellow" />
 </p>
 
----
-
-<!-- 绿色大字 -->
+<!-- https://github.com/kyechan99/capsule-render -->
 <p align="center">
-  <span style="font-size:32px; font-weight:bold; color:#00FF00;">I am super obs</span>
-</p>
-
----
-
-<!-- GitHub 统计卡片 -->
-<p align="center">
-  <!-- 左侧 GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=qingtingjjjjjjj&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF00FF&text_color=9BE4A8&icon_color=00FF00&ring_color=FF69B4" height="170" alt="stats"/>
-  &nbsp;&nbsp;
-  <!-- 右侧 Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=qingtingjjjjjjj&theme=radical&hide_border=true&background=0D1117&ring=FF00FF&fire=FF69B4&currStreakLabel=00FF00&sideNums=9BE4A8&sideLabels=FF00FF&dates=AAAAAA" height="170" alt="streak"/>
-</p>
-
----
-
-<!-- 贡献总览 -->
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=qingtingjjjjjjj&theme=github_dark" alt="profile details"/>
-</p>
-
----
-
-## 🛠 技能
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"/>
-</p>
-
----
-
-## 🔗 社交
-<p align="center">
-  <a href="https://github.com/qingtingjjjjjjj"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/CSDN-FF5722?style=flat-square&logo=csdn&logoColor=white"/></a>
-  <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/QQ-1296DB?style=flat-square&logo=tencentqq&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/Profile%20Views-19.9k-ffaa00?style=flat-square"/>
-</p>
-
----
-
-<!-- 底部波浪 -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2A5298,100:1E3C72&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=footer&text=THE%20END&fontSize=90&fontAlign=50&fontAlignY=70&desc=Hope%20your%20program%20is%20bug+free!&descAlign=50&descSize=30&descAlignY=40&animation=twinkling" />
 </p>
