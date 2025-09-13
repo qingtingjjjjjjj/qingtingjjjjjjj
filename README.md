@@ -1,42 +1,48 @@
-# 👋 Hi, I'm qingtingjjjjjjj
+<!-- 顶部 Banner，可以用你自己的图片替换 -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6FD8,100:3813C2&height=200&section=header&text=Welcome!%20%F0%9F%91%8B&fontSize=40&fontColor=ffffff" />
+</p>
+
+<h2 align="center">思维没有边界 · 一切皆有可能 🚀</h2>
 
 ---
 
-## 📊 GitHub Stats (Yellow Style)
-<div align="center">
-
-![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=qingtingjjjjjjj&theme=solarized)
-![Repos](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=qingtingjjjjjjj&theme=solarized)
-![Languages](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=qingtingjjjjjjj&theme=solarized)
-![Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=qingtingjjjjjjj&theme=solarized&utcOffset=8)
-![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=qingtingjjjjjjj&theme=solarized)
-
-</div>
+### 👨‍💻 About Me
+- 💡 专注自动化、数据、直播源相关项目  
+- 🌱 持续学习 Python / GitHub Actions / Web 爬虫  
+- 🎯 目标：做有趣的开源项目，帮助更多人  
 
 ---
 
-## 🛠️ 技术栈
-
-### 前端
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
-
-### 移动端
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Objective-C](https://img.shields.io/badge/Objective--C-1575F9?style=for-the-badge&logo=apple&logoColor=white)
-![Uniapp](https://img.shields.io/badge/uni-app-2E2E2E?style=for-the-badge&logo=vue.js&logoColor=white)
+### 📊 GitHub Stats
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=qingtingjjjjjjj&show_icons=true&theme=radical" />
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=qingtingjjjjjjj&theme=radical" />
+</p>
 
 ---
 
-## 📬 联系我
-<div align="center">
+### 🚀 Skills
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,git,github,js,ts,html,css,java,cpp,cs,mysql,mongodb,linux" />
+</p>
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:byun6b@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/qingtingjjjjjjj)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
-[![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badge&logo=bilibili&logoColor=white)](https://space.bilibili.com/)
+---
 
-</div>
+### 🌐 Connect With Me
+<p align="center">
+  <a href="https://github.com/qingtingjjjjjjj"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=hexo&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/CSDN-CB3837?style=for-the-badge&logo=csdn&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/QQ-12B7F5?style=for-the-badge&logo=tencentqq&logoColor=white" /></a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=qingtingjjjjjjj&label=Profile%20Views&color=blueviolet&style=flat" alt="profile views" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3813C2,100:FF6FD8&height=120&section=footer" />
+</p>
