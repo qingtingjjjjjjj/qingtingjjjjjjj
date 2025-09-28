@@ -1,9 +1,9 @@
-name: Generate GitHub Snake Animation
+name: Generate GitHub Snake GIF Animation
 
 on:
   schedule:
     - cron: "0 0 * * *"  # 每天凌晨 0 点自动运行
-  workflow_dispatch:      # 手动触发
+  workflow_dispatch:
   push:
     branches:
       - main
@@ -29,11 +29,37 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      # 3. 推送到 output 分支（GitHub Pages）
-      - name: Push SVG files to GitHub Pages
+      # 3. 安装 Python 和依赖
+      - name: Setup Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: "3.x"
+
+      - name: Install dependencies
+        run: |
+          pip install cairosvg pillow
+
+      # 4. 转 SVG → GIF
+      - name: Convert SVG to GIF
+        run: |
+          python3 - <<EOF
+          import cairosvg
+          from PIL import Image
+
+          # 转 PNG
+          cairosvg.svg2png(url="dist/github-contribution-grid-snake.svg", write_to="dist/frame_light.png")
+          cairosvg.svg2png(url="dist/github-contribution-grid-snake-dark.svg", write_to="dist/frame_dark.png")
+
+          # 转 GIF（这里只用一帧，如需真正动画可多帧）
+          Image.open("dist/frame_light.png").save("dist/github-snake-light.gif", save_all=True, loop=0)
+          Image.open("dist/frame_dark.png").save("dist/github-snake-dark.gif", save_all=True, loop=0)
+          EOF
+
+      # 5. 推送 GIF 到 output 分支
+      - name: Push GIF files to GitHub Pages
         uses: crazy-max/ghaction-github-pages@v4
         with:
-          target_branch: output   # Pages 分支
-          build_dir: dist         # SVG 存放路径
+          target_branch: output
+          build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
