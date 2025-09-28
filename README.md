@@ -1,8 +1,8 @@
-[<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/qingtingjjjjjjj/qingtingjjjjjjj/output/github-snake-dark.gif" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/qingtingjjjjjjj/qingtingjjjjjjj/output/github-snake-light.gif" />
-  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/qingtingjjjjjjj/qingtingjjjjjjj/output/github-snake-light.gif" />
-</picture>](https://raw.githubusercontent.com/qingtingjjjjjjj/qingtingjjjjjjj/output/github-contribution-grid-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://qingtingjjjjjjj.github.io/qingtingjjjjjjj/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://qingtingjjjjjjj.github.io/qingtingjjjjjjj/github-contribution-grid-snake.svg" />
+  <img alt="GitHub contribution grid snake animation" src="https://qingtingjjjjjjj.github.io/qingtingjjjjjjj/github-contribution-grid-snake.svg" />
+</picture>
 
 <!-- https://github.com/kyechan99/capsule-render -->
 <p align="center">
