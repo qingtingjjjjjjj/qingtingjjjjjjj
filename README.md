@@ -1,7 +1,16 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/qingtingjjjjjjj/qingtingjjjjjjj/output/github-snake-dark.gif" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/qingtingjjjjjjj/qingtingjjjjjjj/output/github-snake-light.gif" />
-  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/qingtingjjjjjjj/qingtingjjjjjjj/output/github-snake-light.gif" />
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
 </picture>
 
 <!-- https://github.com/kyechan99/capsule-render -->
