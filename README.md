@@ -12,7 +12,8 @@
     src="https://raw.githubusercontent.com/qingtingjjjjjjj/qingtingjjjjjjj/output/github-contribution-grid-snake.svg"  
     />
 </picture>
-
+<div id="top"></div>
+<div align="center" ><img width="100%" alt="welcome to my profile!" src="https://github.com/Carol42/Carol42/blob/main/assets/header.png"></div>
 <!-- https://github.com/kyechan99/capsule-render -->
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=header&text=Welcome&fontSize=90&fontAlign=50&fontAlignY=30&desc=思维没有边界+一切皆有可能&descAlign=50&descSize=30&descAlignY=60&animation=twinkling" />
