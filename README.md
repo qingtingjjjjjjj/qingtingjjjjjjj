@@ -14,32 +14,57 @@
 </picture>
 
 <div id="top"></div>
-<div align="center" ><img width="100%" alt="welcome to my profile!" src="https://github.com/qingtingjjjjjjj/qingtingjjjjjjj/blob/main/assets/header.png"></div>
+<div align="center"><img width="100%" alt="welcome to my profile!" src="https://github.com/qingtingjjjjjjj/qingtingjjjjjjj/blob/main/assets/header.png"></div>
 
 <div align="center">
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%237E3ACE&size=30&center=true&vCenter=true&width=450&lines=I'm+Taliban;He/him;Chinese+Frontend+Dev;Cat+Lover+:3;Power+Metal+Lover+%3C3;function+findQuestion(42)" alt="Chinese front-end developer, cat lover, Power Metal lover"></a>
 </div>
 
 <p align="center">
-<!-- https://github.com/anuraghazra/github-readme-stats -->
 <img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=qingtingjjjjjjj&theme=cobalt&show_icons=true&hide_border=true" /> 
-<!-- https://github.com/DenverCoder1/github-readme-streak-stats -->
 <img align="center" width="400" src="https://streak-stats.demolab.com?user=qingtingjjjjjjj&theme=material-palenight&hide_border=true&date_format=%5BY.%5Dn.j" />
 <br/>
-<!-- https://github.com/tandpfun/skill-icons -->
 <img align="center" src="https://skillicons.dev/icons?i=py,c,cpp,cs,java,html,css,js,ts,md,matlab&theme=light" />
 </p>
-<!-- https://github.com/badges/shields -->
+
 <p align="center">
 <a href="https://github.com/qingtingjjjjjjj"><img src="https://img.shields.io/badge/GitHub-qingtingjjjjjjj-blue?logo=github" /></a>
 <a href="https://qingtingjjjjjjj.blog.csdn.net"><img src="https://img.shields.io/badge/CSDN-qingtingjjjjjjj-red?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAB+FBMVEUAAABqMy7wroeAUEvuso1vOTNwOzbxt5WKYFyniYm/qKLe3s1sNTBsNjGQVkhvODR6Rj7ip4XutZOCU07wtpXxupnst5eKXFmJXlrwu5qKbWryv6Hzx62gfXuwiYb44tNvODNWNSuKUUbwr4iKUkXwsImCVUZ3Qjt5UkN3QjvwsYtGLSfws454SERyPzp4RD/ws4/ws49xPzvvtI/xtJBPODJ7S0Z7SkXWnIFiTkbVnIGCU0/ps5TxvaDwvqGSaWWSaGiOaGSTb2uPamXzx7HxyrCjhHrwrYVqMi3wrITuq4RrMy63eF9jPS/Cg2fupoLqqIHopoDfn3rXlnXAfmSwcluNWkfioHzmkXrihXXccW2zdFypbFehZlKFWUVzSTlwSTh7QThuNS9VMyjto4HlpH7ionzjh3bXmXXOkG/Mi22tb1l/UUB9TT15TDxtRzZcNytZNypRMCVPLiTrnn/cnXnZm3fZmHbhgXTddG7IiGvMgGrPY2S2gGK+e2K1dl7CXV6uel28WlqocFika1WnalWdbFOaYk6dYE6SYUySVkaQVUaIVkSCV0OHVEOJTkF4UD2CRTxmQTJaLCZXKyVNKyJJJR9EIx0+IRrTknLffXLabWzZbGzFi2u5emGucFqicVeXaFCSXUp1STpdOy1hNyxdMilXMCfoEl0hAAAAR3RSTlMA/vqLn+7meVAWDgX59/X13LSGgoF7c2hdVlJQLSklEff18/Ly7+zs5ubi4djX1szHxMG5uLSjnZaJhn1pXldEPT05Ny4nGbaUVn8AAAIPSURBVDjLvdNFlxpBEMDxBgLsknX3jbu7e1I1wzC4OyzusO7u7nFPvmYGwr4HWZJc8vI71at/H/rQTf65g3/pReclTX/qj0rKL175fW4ViBCRd0HQWjC/uFGCWaU3i/f3hyLMIXq873alKJVma3oqL8rvTw7Ns+qeALOCuMIEetTsvPBpbpdUsBSk0SMjdGag2ApJzgEBC4qxJdtQJtJDNtuYAjSCvfpMfKeMUslkOp3MoQTwxNLTup4uuyVuSfcqPoTeUfbIicN2JqoDsEW1p9zh6CowIeDXEXIfaMNasHtr+fb1nWXG7fEmGXvT2e2ZlCq4ZqChmVwC46Ar+DYe2dndjAzHk6nEsGx7d+NTPNDvGvTBVXKGMo3ie3/K8n3jm0WT6PK7NTNbm1/Nya4QjvbBOXIZjOPoVK4vmq1mzdwSUKtzGq2VWYwpnTjug2vkAdADiFa12z45EZZ5AVRfwhOTnxPdVsQBit9MiJivkqJ0Vv0x5vig1FOU3jPtcEz7Z7mlil9LOC33TiOiUwEAL139rEvNDQontzpZ95z8VI2IC8BRar16rSI9LXCrarKnWIhogTwWRGHOo2jgoRnA4Ms0ymgA0CKvgeS4y5sC6DAZ5UB19PbJAaZ4ApKn/gjNnXj1xmR63ct1+lg9+UVbJXDknZ1y4FS2Ffgytcch62hN4f/T3lhzgFPV2E7+qx9xsqq+PsbsOwAAAABJRU5ErkJggg==" /></a>
 <a href="https://www.bilibili.com/video/BV13YbaekE6B/?spm_id_from=333.1387.0.0"><img src="https://img.shields.io/badge/哔哩哔哩-taliban-pink?logo=bilibili" /></a>
 <img src="https://img.shields.io/badge/QQ-476901432-green?logo=tencentqq" />
-<!-- https://github.com/antonkomarev/github-profile-views-counter -->
 <img src="https://komarev.com/ghpvc/?username=qingtingjjjjjjj&abbreviated=true&color=yellow" />
 </p>
 
+<!-- 新升级版：性格与激励卡片 -->
+## 🧠 个人性格与激励
 
+<div style="display:flex; flex-direction:column; gap:10px; max-width:800px; margin:auto;">
+
+  <div style="background:#7E3ACE33; border-radius:12px; padding:15px;">
+    <strong>性格：</strong>在疑问和好奇心的驱使下，我总是想了解事物的运作原理，以及如何让它们运转起来。有了明确的目标，我就会执着地去实现它，直到找到问题的答案，我才会停下来。
+  </div>
+
+  <div style="background:#FFDD57AA; border-radius:12px; padding:15px;">
+    ✨ <strong>“站出来，我会教你如何飞翔”</strong>
+  </div>
+
+  <div style="background:#57C7FF33; border-radius:12px; padding:15px;">
+    🎵 我最喜欢的《盲人守护者》歌曲《飞翔》讲述了灵感，让我想起我们的想象力是多么奇妙，以及我们如何通过“跳出框框思考”找到新的道路。
+  </div>
+
+  <div style="background:#FF6B6B33; border-radius:12px; padding:15px;">
+    🌧️ <strong>“与其等待阳光，不如学会在雨中跳舞。”</strong><br>
+    等待最佳时机去做某事毫无意义。那个时机可能永远不会到来。
+  </div>
+
+  <div style="background:#6BCB77AA; border-radius:12px; padding:15px;">
+    🚀 <strong>“当工作终于完成时，不要停下来，是时候去挖掘下一项了。”</strong><br>
+    平克·弗洛伊德的《呼吸》这首歌提醒我，即使实现了一个宏伟的目标，也永远不要停下来。生活就是一个不断进步的过程。
+  </div>
+
+</div>
+
+<!-- 原有访客量模块 -->
 ## 访客量
 
 <center>
