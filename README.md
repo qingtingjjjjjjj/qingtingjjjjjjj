@@ -18,14 +18,7 @@
 <div align="center">
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%237E3ACE&size=30&center=true&vCenter=true&width=450&lines=I'm+Taliban;He/him;Chinese+Frontend+Dev;Cat+Lover+:3;Power+Metal+Lover+%3C3;function+findQuestion(42)" alt="Chinese front-end developer, cat lover, Power Metal lover"></a>
 </div>
-<!-- https://github.com/kyechan99/capsule-render -->
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=header&text=Welcome&fontSize=90&fontAlign=50&fontAlignY=30&desc=思维没有边界+一切皆有可能&descAlign=50&descSize=30&descAlignY=60&animation=twinkling" />
-</p>
-<!-- https://github.com/DenverCoder1/readme-typing-svg -->
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Outfit&size=30&pause=1000&color=11F721&random=false&width=435&lines=Welcome+to+my+GitHub+profile!;I+am+super+obsessed+with+programming!" />
-</p>
+
 <p align="center">
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=qingtingjjjjjjj&theme=cobalt&show_icons=true&hide_border=true" /> 
