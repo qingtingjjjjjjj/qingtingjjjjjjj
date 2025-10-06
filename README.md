@@ -35,6 +35,10 @@
 <img src="https://komarev.com/ghpvc/?username=qingtingjjjjjjj&abbreviated=true&color=yellow" />
 </p>
 
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=qingtingjjjjjjj&theme=tokyo-night&hide_border=true&area=true&custom_title=My%20Contributions%20This%20Year&radius=16" />
+</div>
+
 <!-- 激励短语模块 -->
 ## 💪 激励短语
 
