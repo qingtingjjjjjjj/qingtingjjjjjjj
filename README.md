@@ -14,7 +14,7 @@
 </picture>
 
 <div id="top"></div>
-<div align="center"><img width="100%" alt="welcome to my profile!" src="https://github.com/qingtingjjjjjjj/qingtingjjjjjjj/blob/main/assets/header.png"></div>
+<div align="center" ><img width="100%" alt="welcome to my profile!" src="https://github.com/qingtingjjjjjjj/qingtingjjjjjjj/blob/main/assets/header.png"></div>
 
 <div align="center">
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%237E3ACE&size=30&center=true&vCenter=true&width=450&lines=I'm+Taliban;He/him;Chinese+Frontend+Dev;Cat+Lover+:3;Power+Metal+Lover+%3C3;function+findQuestion(42)" alt="Chinese front-end developer, cat lover, Power Metal lover"></a>
@@ -35,36 +35,21 @@
 <img src="https://komarev.com/ghpvc/?username=qingtingjjjjjjj&abbreviated=true&color=yellow" />
 </p>
 
-<!-- 新升级版：性格与激励卡片 -->
-## 🧠 个人性格与激励
+<!-- 激励短语模块 -->
+## 💪 激励短语
 
-<div style="display:flex; flex-direction:column; gap:10px; max-width:800px; margin:auto;">
+- “站出来，我会教你如何飞翔”
+- 我最喜欢的《盲人守护者》歌曲《飞翔》讲述了灵感，让我想起我们的想象力是多么奇妙，以及我们如何通过“跳出框框思考”找到新的道路。
+- “与其等待阳光，不如学会在雨中跳舞。”  
+等待最佳时机去做某事毫无意义。那个时机可能永远不会到来。
+- “当工作终于完成时，不要停下来，是时候去挖掘下一项了。”  
+平克·弗洛伊德的《呼吸》这首歌提醒我，即使实现了一个宏伟的目标，也永远不要停下来。生活就是一个不断进步的过程。
 
-  <div style="background:#7E3ACE33; border-radius:12px; padding:15px;">
-    <strong>性格：</strong>在疑问和好奇心的驱使下，我总是想了解事物的运作原理，以及如何让它们运转起来。有了明确的目标，我就会执着地去实现它，直到找到问题的答案，我才会停下来。
-  </div>
+<!-- 个人性格模块 -->
+## 🧠 个人性格
 
-  <div style="background:#FFDD57AA; border-radius:12px; padding:15px;">
-    ✨ <strong>“站出来，我会教你如何飞翔”</strong>
-  </div>
+在疑问和好奇心的驱使下，我总是想了解事物的运作原理，以及如何让它们运转起来。有了明确的目标，我就会执着地去实现它，直到找到问题的答案，我才会停下来。
 
-  <div style="background:#57C7FF33; border-radius:12px; padding:15px;">
-    🎵 我最喜欢的《盲人守护者》歌曲《飞翔》讲述了灵感，让我想起我们的想象力是多么奇妙，以及我们如何通过“跳出框框思考”找到新的道路。
-  </div>
-
-  <div style="background:#FF6B6B33; border-radius:12px; padding:15px;">
-    🌧️ <strong>“与其等待阳光，不如学会在雨中跳舞。”</strong><br>
-    等待最佳时机去做某事毫无意义。那个时机可能永远不会到来。
-  </div>
-
-  <div style="background:#6BCB77AA; border-radius:12px; padding:15px;">
-    🚀 <strong>“当工作终于完成时，不要停下来，是时候去挖掘下一项了。”</strong><br>
-    平克·弗洛伊德的《呼吸》这首歌提醒我，即使实现了一个宏伟的目标，也永远不要停下来。生活就是一个不断进步的过程。
-  </div>
-
-</div>
-
-<!-- 原有访客量模块 -->
 ## 访客量
 
 <center>
