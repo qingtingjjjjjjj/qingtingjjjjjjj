@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="image.png" />
+</p>
+<h2 align="center">
+  「绕远的路，总有别样的风景。」
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
