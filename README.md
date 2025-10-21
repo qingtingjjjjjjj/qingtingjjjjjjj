@@ -6,16 +6,10 @@
 
   <!-- knock code pictures 敲代码的图片 -->
   <picture>
-    <!-- 如果用户使用深色模式，显示 GIF 动画 -->
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/qingtingjjjjjjj/qingtingjjjjjjj/main/assets/coding.gif" />
-    
-    <!-- 如果用户使用浅色模式，显示 SVG 图片 -->
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/qingtingjjjjjjj/qingtingjjjjjjj/main/assets/developer.svg" height="225px" />
-    
-    <!-- 默认显示图片 -->
-    <img src="https://raw.githubusercontent.com/qingtingjjjjjjj/qingtingjjjjjjj/main/assets/coding.gif" alt="敲代码的图片" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/qingtingjjjjjjj/qingtingjjjjjjj/assets/coding.gif" />
+    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/qingtingjjjjjjj/qingtingjjjjjjj/assets/developer.svg" height="225px" />
+    <img src="https://cdn.jsdelivr.net/gh/qingtingjjjjjjj/qingtingjjjjjjj/assets/coding.gif" />
   </picture>
-</div>
 
 </div>
 <div align="center">
