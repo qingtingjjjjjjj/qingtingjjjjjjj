@@ -1,3 +1,7 @@
+## 🎬 自述视频
+
+<video src="https://raw.githubusercontent.com/qingtingjjjjjjj/qingtingjjjjjjj/main/4d23922fb161f30715e7f615a79615ad.mp4" controls width="640"></video>
+
 <p align="center">
   <img src="image.png" />
 </p>
