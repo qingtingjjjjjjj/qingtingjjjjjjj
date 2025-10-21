@@ -1,3 +1,6 @@
+## 🎬 自述视频展示
+
+[![点击观看视频](https://raw.githubusercontent.com/qingtingjjjjjjj/qingtingjjjjjjj/main/cover.jpg)](https://qingtingjjjjjjj.github.io/qingtingjjjjjjj/)
 
 <p align="center">
   <img src="image.png" />
