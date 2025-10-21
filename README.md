@@ -4,20 +4,18 @@
 
 <div align="center">
 
-  <!-- 深色模式显示动图，浅色模式显示 SVG -->
+ <div align="center">
   <picture>
-    <!-- 深色模式显示 GIF 动图 -->
+    <!-- 深色模式显示 GIF -->
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/qingtingjjjjjjj/qingtingjjjjjjj/main/assets/coding.gif">
     
-    <!-- 浅色模式显示 SVG 静态图 -->
+    <!-- 浅色模式显示 SVG -->
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/qingtingjjjjjjj/qingtingjjjjjjj/main/assets/developer.svg">
     
-    <!-- 默认显示 GIF -->
-    <img src="https://raw.githubusercontent.com/qingtingjjjjjjj/qingtingjjjjjjj/main/assets/coding.gif" 
-         alt="敲代码的图片" 
-         width="300" 
-         style="border-radius: 12px; box-shadow: 0 8px 20px rgba(0,0,0,0.2);">
+    <!-- 默认图片 -->
+    <img src="https://raw.githubusercontent.com/qingtingjjjjjjj/qingtingjjjjjjj/main/assets/coding.gif" alt="敲代码的图片" width="300">
   </picture>
+</div>
 
 </div>
 <div align="center">
