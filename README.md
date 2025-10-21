@@ -6,9 +6,9 @@
 
   <!-- knock code pictures 敲代码的图片 -->
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/xisohi/xisohi/assets/images/coding.gif" />
-    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/xisohi/xisohi/assets/images/developer.svg" height="225px" />
-    <img src="https://cdn.jsdelivr.net/gh/xisohi/xisohi/assets/images/coding.gif" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/qingtingjjjjjjj/qingtingjjjjjjj/assets/images/coding.gif" />
+    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/qingtingjjjjjjj/qingtingjjjjjjj/assets/images/developer.svg" height="225px" />
+    <img src="https://cdn.jsdelivr.net/gh/qingtingjjjjjjj/qingtingjjjjjjj/assets/images/coding.gif" />
   </picture>
 
 <p align="center">
