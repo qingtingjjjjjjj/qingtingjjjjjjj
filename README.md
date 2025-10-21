@@ -2,6 +2,15 @@
 
 [![点击观看视频](https://raw.githubusercontent.com/qingtingjjjjjjj/qingtingjjjjjjj/main/cover.jpg)](https://qingtingjjjjjjj.github.io/qingtingjjjjjjj/)
 
+<div align="center">
+
+  <!-- knock code pictures 敲代码的图片 -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/xisohi/xisohi/assets/images/coding.gif" />
+    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/xisohi/xisohi/assets/images/developer.svg" height="225px" />
+    <img src="https://cdn.jsdelivr.net/gh/xisohi/xisohi/assets/images/coding.gif" />
+  </picture>
+
 <p align="center">
   <img src="image.png" />
 </p>
